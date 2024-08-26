@@ -2,10 +2,10 @@
 <a href="https://www.linkedin.com/in/sajuvargheseputhancharuvil"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## Introduction
-Cyber Fraud Analyst 
+Experienced Information Security Consultant with expertise in administrating, monitoring, and triaging counter-fraud operations. Specialized in proactively identifying and mitigating security threats to protect sensitive information. Skilled in conducting thorough assessments to address potential security weaknesses and leading investigations to minimize the impact of security breaches.
 
 ## Objective
-As a passionate cybersecurity professional, expertise in monitoring and triaging Counter-Fraud Operations. My role is to conduct comprehensive fraud investigations, identify root causes, and document findings to mitigate future incidents.Also supporting end-to-end investigations, analyzing high-risk fraud patterns, and preparing detailed fraud activity reports, I strive to proactively and reactively tune Counter-Fraud systems.I am adept at collaborating with various teams, including transactional fraud analytics, AML, and call center operations, to identify emerging threats and communicate findings to key stakeholders. Additionally, I aim to streamline fraud operational workflows, support and administer fraud protection platforms, and develop and test new fraud detection rules to ensure robust fraud prevention measures.
+As a passionate cybersecurity professional, expertise in administrating monitoring and triaging Counter-Fraud Operations. My role is to conduct comprehensive fraud investigations, identify root causes, and document findings to mitigate future incidents.Also supporting end-to-end investigations, analyzing high-risk fraud patterns, and preparing detailed fraud activity reports, I strive to proactively and reactively tune Counter-Fraud systems.I am adept at collaborating with various teams, including transactional fraud analytics, AML, and call center operations, to identify emerging threats and communicate findings to key stakeholders. Additionally, I aim to streamline fraud operational workflows, support and administer fraud protection platforms, and develop and test new fraud detection rules to ensure robust fraud prevention measures.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
