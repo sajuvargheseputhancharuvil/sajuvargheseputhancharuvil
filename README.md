@@ -45,21 +45,22 @@ As a passionate cybersecurity professional, expertise in administrating monitori
 ## Certifications
 
 <div>
-<img src="https://img.shields.io/badge/-GROUP_IB_Fraud_Protection_Specialist-000000?&style=for-the-badge&logo=GROUP_IB&logoColor=white" />
-<img src="https://img.shields.io/badge/CCNA-darkblue" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-GROUP_IB_Fraud_Protection_Specialist-000000?&style=for-the-badge&logo=GROUP_IB&logoColor=white" />
+    <img src="https://img.shields.io/badge/-eJPT:Junior Penetration Tester-darkred?&style=for-the-badge&logo=INE&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CCNA-darkblue?&style=for-the-badge&logo=CISCO&logoColor=white" />
 </div>
 
 ## Courses
 
 <div>
-<img src="https://img.shields.io/badge/Become_an_Ethical_Hacker_LinkedIn-darkred" />
-<img src="https://img.shields.io/badge/CCNA-darkblue" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Certified_Incident_Handler_V2-darkblue?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Become an Ethical Hacker-darkred?&style=for-the-badge&logo=INE&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CyberSec First Responder-darkblue?&style=for-the-badge&logo=Linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/Become_an_Ethical_Hacker_LinkedIn-darkred" />
+    <img src="https://img.shields.io/badge/CCNA-darkblue" />
+    <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
 
 ## Projects
