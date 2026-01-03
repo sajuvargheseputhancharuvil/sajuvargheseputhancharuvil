@@ -1,26 +1,46 @@
 # Hello, I'm Saju Varghese
 <a href="https://www.linkedin.com/in/sajuvargheseputhancharuvil"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-## Introduction
-Experienced Information Security Consultant with expertise in administrating, monitoring, and triaging counter-fraud operations. Specialized in proactively identifying and mitigating security threats to protect sensitive information. Skilled in conducting thorough assessments to address potential security weaknesses and leading investigations to minimize the impact of security breaches.
+## Profile Summary
+I’m an Information Security Consultant with over 6 years of hands-on experience in Security Operations Center (SOC) environments and Cyber Fraud Prevention.
 
-## Objective
-As a passionate cybersecurity professional, expertise in administrating monitoring and triaging Counter-Fraud Operations. My role is to conduct comprehensive fraud investigations, identify root causes, and document findings to mitigate future incidents.Also supporting end-to-end investigations, analyzing high-risk fraud patterns, and preparing detailed fraud activity reports, I strive to proactively and reactively tune Counter-Fraud systems.I am adept at collaborating with various teams, including transactional fraud analytics, AML, and call center operations, to identify emerging threats and communicate findings to key stakeholders. Additionally, I aim to streamline fraud operational workflows, support and administer fraud protection platforms, and develop and test new fraud detection rules to ensure robust fraud prevention measures.
+My core strength lies in fraud detection, threat analysis, and security operaitons. In my current role, I manage and administer enterprise fraud protection platforms, support fraud investigations, and build data-driven dashboards that help security and risk teams understand real-world threat activity and system performance.
 
-## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+With a strong networking background,I approach security problems from an infrastructure and traffic-level perspective rather than relying only on alerts. Alongside defensive security, I’ve built a solid foundation in penetration testing, allowing me to think from both an attacker and defender mindset, especially useful when improving detection logic and investigation workflows.
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+## Key Skills & Technologies
+
+### Security Operations & Fraud Prevention
+
+	•	SOC monitoring & incident response
+	•	Fraud detection, analysis, and investigation
+	•	Threat research & malicious activity analysis
+	•	Collaboration with IT, Risk, Legal, and Compliance teams
+
+### Platforms & Monitoring
+
+	•	Group-IB Fraud Protection (administration & investigations)
+	•	Kibana – fraud analytics & visualization
+	•	Grafana – system and platform performance monitoring
+
+### Networking & Security Foundations
+
+	•	Network security fundamentals
+	•	Traffic analysis & threat correlation
+	•	SOC alert triage and use-case analysis
+
+### Offensive Security (Foundational)
+
+	•	Penetration testing concepts (eJPT level)
+	•	Reconnaissance, exploitation basics
+
+### Certifications
+
+	•	eJPT – eLearnSecurity Junior Penetration Tester
+	•	Certified Fraud Protection Specialist
+	•	CCNA (previously held)
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
@@ -42,14 +62,6 @@ As a passionate cybersecurity professional, expertise in administrating monitori
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
-## Certifications
-
-<div>
-    <img src="https://img.shields.io/badge/-GROUP_IB_Fraud_Protection_Specialist-000000?&style=for-the-badge&logo=GROUP_IB&logoColor=white" />
-    <img src="https://img.shields.io/badge/-eJPT:Junior Penetration Tester-darkred?&style=for-the-badge&logo=INE&logoColor=white" />
-    <img src="https://img.shields.io/badge/-CCNA-darkblue?&style=for-the-badge&logo=CISCO&logoColor=white" />
-</div>
-
 ## Courses
 
 <div>
@@ -62,7 +74,3 @@ As a passionate cybersecurity professional, expertise in administrating monitori
     <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
-
-## Projects
-- Detection Lab
-- SOC Automation Project
