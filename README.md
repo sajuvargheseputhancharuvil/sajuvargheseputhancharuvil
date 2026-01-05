@@ -20,8 +20,8 @@ With a strong networking background,I approach security problems from an infrast
 ### Platforms & Monitoring
 
 	•	Group-IB Fraud Protection (administration & investigations)
-	•	Kibana – fraud analytics & visualization
-	•	Grafana – system and platform performance monitoring
+	•	Kibana - fraud analytics & visualization
+	•	Grafana - system and platform performance monitoring
 
 ### Networking & Security Foundations
 
@@ -36,7 +36,7 @@ With a strong networking background,I approach security problems from an infrast
 
 ### Certifications
 
-	•	eJPT – eLearnSecurity Junior Penetration Tester
+	•	eJPT - eLearnSecurity Junior Penetration Tester
 	•	Certified Fraud Protection Specialist
 	•	CCNA (previously held)
 
@@ -64,5 +64,5 @@ With a strong networking background,I approach security problems from an infrast
 	•	Certified_Incident_Handler_V2
 	•	Become an Ethical Hacker
 	•	CyberSec First Responder
-	•	Become_an_Ethical_Hacker
+	•	Become an Ethical Hacker
 	•	CCNA
